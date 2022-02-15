@@ -1,0 +1,8 @@
+Components used:
+
+1. Arduino MCU
+2. 4 LDR sensors
+3. 4 10K resistors
+4. 2 servo motors
+5. jumper wires
+6. 5V power supply separate for arduino and servos (use 7805 mosfet with 9V - 12V)
